@@ -45,5 +45,3 @@ https://www.canva.com/design/DAGRXHxJWNw/bXc6ufob92toyfF8DveMEg/view?utm_content
 
 -	Wikipedia contributors. (2024, July 5). Sergey Aleynikov. Wikipedia. https://en.wikipedia.org/wiki/Sergey_Aleynikov
 
-
-<img width="432" height="639" alt="image" src="https://github.com/user-attachments/assets/3df8dab3-7642-486a-9794-bfbb18242aa1" />
